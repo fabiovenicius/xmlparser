@@ -1,0 +1,1 @@
+Programa para leitura de arquivo de Log.
